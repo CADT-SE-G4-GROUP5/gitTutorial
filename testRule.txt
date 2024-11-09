@@ -1,1 +1,2 @@
 To see if the ruleset is applied to default branch(main)
+Now that the visiiblity is set to public, is the ruleset applied?
